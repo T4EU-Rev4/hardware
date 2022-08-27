@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name nano)(type Legacy)(uri D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/data/hulkco-Nano_33-181f801/lib/Arduino-nano-33.lib)(options "")(descr ""))
-  (lib (name ROF-78E5.0-0.5SMD-R)(type Legacy)(uri D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/KiCAD_Libs/ROF-78E5.0-0.5SMD-R.lib)(options "")(descr ""))
+  (lib (name "nano")(type "Legacy")(uri "D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/data/hulkco-Nano_33-181f801/lib/Arduino-nano-33.lib")(options "")(descr ""))
+  (lib (name "ROF-78E5.0-0.5SMD-R")(type "Legacy")(uri "D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/KiCAD_Libs/ROF-78E5.0-0.5SMD-R.lib")(options "")(descr ""))
+  (lib (name "DFRobot")(type "Legacy")(uri "D:/BBS/Schule/Projekte/KiCAD_Libs/DFR0299/KiCad/DFR0299.lib")(options "")(descr ""))
+  (lib (name "BBS_TGHS")(type "KiCad")(uri "D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/KiCAD_Libs/BBS_TGHS.kicad_sym")(options "")(descr ""))
 )
