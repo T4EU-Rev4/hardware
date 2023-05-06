@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "nano")(type "Legacy")(uri "D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/data/hulkco-Nano_33-181f801/lib/Arduino-nano-33.lib")(options "")(descr ""))
+  (lib (name "ROF-78E5.0-0.5SMD-R")(type "Legacy")(uri "D:/BBS/Schule/Projekte/Erasmus+/EEM4EU/KiCAD_Libs/ROF-78E5.0-0.5SMD-R.lib")(options "")(descr ""))
+  (lib (name "Wagon-rescue")(type "Legacy")(uri "${KIPRJMOD}/Wagon-rescue.lib")(options "")(descr ""))
+)
